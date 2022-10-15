@@ -45,6 +45,4 @@ module pit_chiptray(size, chip, mesh) {
     translate([tray_center[0] - (chip[0] / 2 + 5), tray_center[1] - 1, 0])
     squircle([chip[0] + 10, 2, size[2]]);
   }
-
-
 }
