@@ -3,7 +3,7 @@ use <../lib/squircle.scad>
 module pit_chiptray(size, chip, mesh) {
 
   tray_center = [(size[0]) / 2, size[1] / 2];
-    bar_length = (size[0] - chip[0] - 4) / 2;
+  bar_length = (size[0] - chip[0] - 4) / 2;
 
   difference() {
 
