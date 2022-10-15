@@ -25,5 +25,5 @@ translate([pitbase_size[1] + 10, 0, 0])
 pit_chiptray(
   size = [chiptray_size[0] - 0.2, chiptray_size[1] - 0.2, chiptray_size[2]],
   chip = [chip_size[0] + 0.2, chip_size[1] + 0.2, chip_size[2]],
-  mesh = steel_mesh_size
+  mesh = [steel_mesh_size[0] + 0.2, steel_mesh_size[1] + 0.2, steel_mesh_size[2]]
 );
