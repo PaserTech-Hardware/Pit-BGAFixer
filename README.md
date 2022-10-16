@@ -6,6 +6,7 @@ This project contains no steel mesh, just the fixer itself.
 You should order your steel mesh separately.
 
 ![overview](res/pit-overview.png)
+![overview](res/pit-image.png)
 
 ![iCEBox](https://img.shields.io/static/v1?label=OpenSCAD&message=2021.01&colorA=f9d72c&colorB=green&style=plastic)
 ![PitVer](https://img.shields.io/static/v1?label=Pit-BGAFixer&message=1.0&color=green&style=plastic)
